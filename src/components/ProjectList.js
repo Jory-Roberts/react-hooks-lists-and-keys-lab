@@ -13,8 +13,6 @@ function ProjectList({ projects }) {
         ></ProjectItem>
     ));
 
-    console.log(allProjects);
-
     return (
         <div id='projects'>
             <h2>My Projects</h2>
